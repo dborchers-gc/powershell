@@ -110,7 +110,7 @@ Accept wildcard characters: False
 ```
 
 ### -LogoPath
-The path to the logo file of to set. Logo must be at least 48 pixels wide and may be at most 4 MB in size. Requires Site.ReadWrite.All permissions.
+The path to the logo file of to set. Logo must be at least 48 pixels wide and may be at most 4 MB in size. Requires Sites.ReadWrite.All permissions.
 
 ```yaml
 Type: String
